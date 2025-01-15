@@ -15,6 +15,8 @@ that remote with:
 ```
 git remote add gitlab https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_apis_spacy_ner_models.git
 ```
-
-
+and
+```
+git checkout gitlab/full_data
+```
 
