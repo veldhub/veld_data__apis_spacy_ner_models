@@ -10,5 +10,11 @@ only metadata in the `main` branch, due to storage issues. The best performing m
 on huggingface.
 
 The internal gitlab repo ( https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_apis_spacy_ner_models )
-additionally contains all models data in the branch `full_data`.
+additionally contains all models data in the branch `full_data`. In order to get to that data, add 
+that remote with:
+```
+git remote add gitlab https://gitlab.oeaw.ac.at/acdh-ch/nlp/veld_data_apis_spacy_ner_models.git
+```
+
+
 
