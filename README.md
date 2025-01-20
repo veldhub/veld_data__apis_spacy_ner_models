@@ -1,4 +1,4 @@
-# veld_data__apis_spacy_ner_models
+# ![veld chain](https://raw.githubusercontent.com/veldhub/.github/refs/heads/main/images/symbol_V_letter.png) veld_data__apis_spacy_ner_models
 
 This repo contains spacy NER models, trained on APIS ÖBL data and in this chain veld: 
 https://github.com/veldhub/veld_chain__train_spacy_apis_ner
